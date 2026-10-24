@@ -17,8 +17,11 @@ C(S) and G(S) are in series, 300/(S^2+10S+20)
 Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 ## Program: 
 ### Open loop System
+<img width="1220" height="548" alt="image" src="https://github.com/user-attachments/assets/8f7d7c8d-99c5-46cf-b504-46c95183a0ad" />
 
 ### Closed loop System
+<img width="1208" height="490" alt="image" src="https://github.com/user-attachments/assets/b9029a74-e2f5-4032-8c59-4da0efe2f7f0" />
+
 
 ## Simulink:
 
@@ -30,14 +33,19 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Analyse the result.
 ## Output:
 ### Open Loop System:
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/2b1c9c2e-94a9-4f06-a0e2-75a2d3314535" />
+
 ### Closed Loop System:
+
+<img width="692" height="620" alt="image" src="https://github.com/user-attachments/assets/811b887e-6240-42ab-9e22-be17d407d0e7" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
-Steady State Error = <br>
-Settling Time = 
+Steady State Error = 0.95
+Settling Time = 2.5
 ### Closed loop System
-Steady State Error = <br>
+Steady State Error = 
 Settling Time = 
 
 
